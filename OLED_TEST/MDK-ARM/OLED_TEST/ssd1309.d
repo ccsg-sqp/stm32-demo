@@ -26,6 +26,8 @@ oled_test\ssd1309.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
 oled_test\ssd1309.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 oled_test\ssd1309.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 oled_test\ssd1309.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+oled_test\ssd1309.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+oled_test\ssd1309.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 oled_test\ssd1309.o: ../Core/Inc/gpio.h
 oled_test\ssd1309.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 oled_test\ssd1309.o: ../HARDWARE/OLED/oledfont.h
